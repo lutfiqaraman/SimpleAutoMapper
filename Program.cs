@@ -7,7 +7,6 @@ namespace SimpleAutoMapper
         static void Main(string[] args)
         {
             
-
         }
     }
 }
