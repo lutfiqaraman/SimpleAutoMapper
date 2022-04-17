@@ -1,7 +1,4 @@
-﻿using System;
-using AutoMapper;
-
-namespace SimpleAutoMapper
+﻿namespace SimpleAutoMapper
 {
     class Program
     {
